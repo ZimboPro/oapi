@@ -10,7 +10,7 @@ description = "OpenApi document parser"
 repository = "https://github.com/basiliqio/oapi"
 
 [dependencies]
-sppparse = { version = "0.1.2", features = ["url", "semver"] }
+sppparse = { version = "0.1.4", features = ["url", "semver"] }
 serde = "1"
 getset = "0.1"
 serde_json = "1"
